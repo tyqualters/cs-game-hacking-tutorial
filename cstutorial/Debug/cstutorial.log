@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Workspaces\cstutorial\cstutorial\utilities.h(28,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cstutorial.vcxproj -> D:\Workspaces\cstutorial\cstutorial\Debug\cstutorial.dll
